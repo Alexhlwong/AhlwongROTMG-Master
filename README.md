@@ -1,10 +1,3 @@
 AhlwongROTMG-Master
 ===================
-touch README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/Alexhlwong/AhlwongROTMG-Master.git
-git push -u origin master
-git remote add origin https://github.com/Alexhlwong/AhlwongROTMG-Master.git
-git push -u origin master
+This source is made with Doomed's Source but built from it.
